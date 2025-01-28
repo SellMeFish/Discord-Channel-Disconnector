@@ -38,7 +38,7 @@ A **fun trolling tool** that allows you to disconnect your friends from Discord 
 
 Add cool screenshots of the app here! 👇
 
-![Start Screen](https://via.placeholder.com/400x300?text=Start+Screen+Screenshot)
+![Start Screen]([https://via.placeholder.com/400x300?text=Start+Screen+Screenshot](https://imgur.com/431xeFT))
 ![Token Input](https://via.placeholder.com/400x300?text=Token+Input+Screenshot)
 
 ### 📹 Video
@@ -80,12 +80,6 @@ Include a short demo video here (e.g., upload it to [YouTube](https://www.youtub
 
 ### Is this tool safe?
 - This tool uses your **token** to send requests to the Discord API. Make sure to run it only on your computer and never share your token with others!
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 

@@ -14,7 +14,7 @@ A **fun trolling tool** that allows you to disconnect your friends from Discord 
 - 🔄 **Mix Mode**: Randomly changes the region to truly confuse your friends!
 - ⏱️ **Custom Interval**: Set how often the region is changed.
 - 🛑 **Easy Stop**: Stop the process anytime with a single button.
-- 🕶️ Modern dark **GUI design** with purple accents.
+- 🕶️ Modern dark **GUI design**.
 
 ---
 

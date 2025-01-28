@@ -41,8 +41,7 @@ A **fun trolling tool** that allows you to disconnect your friends from Discord 
 
 ### 📹 Video
 
-Include a short demo video here (e.g., upload it to [YouTube](https://www.youtube.com/)).  
-👉 [**Watch the Video**](https://www.youtube.com/)
+ 👉 [**Watch the Video**](https://youtu.be/SbV-q_Y864o)
 
 ---
 

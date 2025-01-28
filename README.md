@@ -39,7 +39,7 @@ A **fun trolling tool** that allows you to disconnect your friends from Discord 
 Add cool screenshots of the app here! 👇
 
 ![Gui Preview](https://imgur.com/431xeFT.png)
-![Token Input](https://via.placeholder.com/400x300?text=Token+Input+Screenshot)
+![Token Input](https://imgur.com/kt7gWHF.png)
 
 ### 📹 Video
 

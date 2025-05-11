@@ -1,24 +1,24 @@
 
-# 🎭 Discord Group Disconnector 🎭
+#  Discord Group Disconnector 
 
-A **fun trolling tool** that allows you to disconnect your friends from Discord groups by **continuously changing the group's region**. 🤪
+A **fun trolling tool** that allows you to disconnect your friends from Discord groups by **continuously changing the group's region**. 
 
-⚠️ **Note**: This tool is meant for **entertainment purposes only**. Please use it responsibly and adhere to Discord's guidelines!
+ **Note**: This tool is meant for **entertainment purposes only**. Please use it responsibly and adhere to Discord's guidelines!
 
 ---
 
-## 📦 Features
+##  Features
 
-- 🌍 Choose from various regions:
+- Choose from various regions:
   - `brazil`, `hongkong`, `india`, `japan`, `us-central`, etc.
-- 🔄 **Mix Mode**: Randomly changes the region to truly confuse your friends!
-- ⏱️ **Custom Interval**: Set how often the region is changed.
-- 🛑 **Easy Stop**: Stop the process anytime with a single button.
-- 🕶️ Modern dark **GUI design**.
+-  **Mix Mode**: Randomly changes the region to truly confuse your friends!
+-  **Custom Interval**: Set how often the region is changed.
+-  **Easy Stop**: Stop the process anytime with a single button.
+-  Modern dark **GUI design**.
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. **Install Python**: Make sure [Python 3.11+](https://www.python.org/) is installed.
 2. **Install dependencies**:
@@ -32,24 +32,24 @@ A **fun trolling tool** that allows you to disconnect your friends from Discord 
 
 ---
 
-## 🎥 Demo
+##  Demo
 
-### 📸 Screenshots
+###  Screenshots
 
 ![Gui Preview](https://imgur.com/431xeFT.png)
 ![Token Input](https://imgur.com/kt7gWHF.png)
 
-### 📹 Video
+###  Video
 
- 👉 [**Watch the Video**](https://youtu.be/SbV-q_Y864o)
+  [**Watch the Video**](https://youtu.be/SbV-q_Y864o)
 
 ---
 
-## ⚙️ How to Use
+##  How to Use
 
 1. Start the application.
 2. Enter your **Discord Token** and the **Group ID**.  
-   👉 **Note**: Learn how to get your token [here](https://discordhelp.net/discord-token).  
+    **Note**: Learn how to get your token [here](https://discordhelp.net/discord-token).  
 3. Select a region or enable **Mix Mode** to randomly switch regions.
 4. Set the **interval** using the slider (e.g., every 1 second).
 5. Click `Change Region` to start the process.
@@ -57,7 +57,7 @@ A **fun trolling tool** that allows you to disconnect your friends from Discord 
 
 ---
 
-## 📚 Notes
+##  Notes
 
 - Available regions:
   ```text
@@ -69,7 +69,7 @@ A **fun trolling tool** that allows you to disconnect your friends from Discord 
 
 ---
 
-## 🤔 FAQ
+##  FAQ
 
 ### How do I find the Group ID?
 1. Go to Discord settings and enable **Developer Mode**.
@@ -80,6 +80,6 @@ A **fun trolling tool** that allows you to disconnect your friends from Discord 
 
 ---
 
-## ❤️ Support
+##  Support
 
-If you enjoy this tool, leave a ⭐ on [GitHub](#) or share it with your friends! 🎉
+If you enjoy this tool, leave a on [GitHub](#) or share it with your friends!
